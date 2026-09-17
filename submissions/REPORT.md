@@ -2,7 +2,7 @@
 
 **Cách dùng:** Thay mọi dấu `...` bằng bài làm thật của bạn trước khi nộp link fork trên VLearn. Giữ nguyên bốn mục và bảng để coach đọc nhanh. Viết ngắn, cụ thể theo ảnh/vùng; không cần thuật ngữ chuyên sâu. Ví dụ trong [hướng dẫn mẫu](reports/REPORT_TEMPLATE.md) chỉ giúp hiểu cách điền, không phải câu trả lời để chép lại.
 
-- Mã học viên theo lớp: lehainam8114
+- Mã học viên theo lớp: 2A202602070
 - Ngày / CVAT local: 17/09/2026 / localhost:8080
 - Công cụ đã dùng: CVAT Polygon Tool, Semi-Auto (Intelligent Scissors)
 
